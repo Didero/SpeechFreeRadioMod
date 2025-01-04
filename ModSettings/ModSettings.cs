@@ -4,7 +4,7 @@ using Game.Settings;
 
 namespace SpeechFreeRadio.ModSettings
 {
-    [FileLocation($"ModsSettings\\{nameof(SpeechFreeRadio)}\\settings")]
+    [FileLocation(nameof(SpeechFreeRadio))]
     [SettingsUIGroupOrder(kToggleGroup)]
     public class ModSettings : ModSetting
     {
