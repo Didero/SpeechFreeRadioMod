@@ -12,6 +12,7 @@
 		<Description>Disable all talking on the in-game radio</Description>
 		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
 		<PDXAccountDataPath>..\pdx_account.txt</PDXAccountDataPath>
+		<Copyright>Copyright © 2025</Copyright>
 	</PropertyGroup>
 	
 	<!--Imports must be after PropertyGroup block-->
