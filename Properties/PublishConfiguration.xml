@@ -24,8 +24,6 @@ The mod icon is made from the in-game icons AdvisorRadio, Communication, and the
 	<Screenshot Value="" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="" />
-	<!--Link to the forum post where the mod can be discussed-->
-	<ForumLink Value="" />
 	<!--Version of the mod-->
 	<ModVersion Value="1.0" />
 	<!--Recommended version of the base game to use the mod-->
