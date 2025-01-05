@@ -28,8 +28,6 @@ The mod icon is made from the in-game icons AdvisorRadio, Communication, and the
 	<ModVersion Value="1.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.2.*" />
-	<!--Dependency for the mod, can be set multiple times-->
-	<Dependency Id="" />
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
 	<ChangeLog Value="" />
 	<!--ChangeLog>
