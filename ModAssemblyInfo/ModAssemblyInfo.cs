@@ -10,7 +10,7 @@ namespace SpeechFreeRadio
     public class ModAssemblyInfo
     {
         public const string Name        = "SpeechFreeRadio";
-        public const string Version     = "1.0.2";
+        public const string Version     = "1.0.3";
         public const string Title       = "Speech Free Radio";
         public const string Description = "Disable all talking on the in-game radio";
     }

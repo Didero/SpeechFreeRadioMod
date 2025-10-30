@@ -8,7 +8,7 @@
 		<!--The file where mod information which is required for publishing mod on PDX mods are stored-->
 		<PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
 		<Title>Speech Free Radio</Title>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<Description>Disable all talking on the in-game radio</Description>
 		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
 		<PDXAccountDataPath>$(SolutionDir)..\pdx_account.txt</PDXAccountDataPath>
